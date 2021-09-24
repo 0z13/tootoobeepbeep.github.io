@@ -1,5 +1,5 @@
-# Emanote Template
+# long long time ago
 
-A Git repo for users to get started with [Emanote], with GitHub Pages deployment. See [[README|README]].
+i can still remember
 
-[Emanote]: https://note.ema.srid.ca/
+
