@@ -415,10 +415,6 @@ ul {
   --tw-text-opacity: 1;
   color: rgba(0, 0, 0, var(--tw-text-opacity));
 }
-.text-red-600 {
-  --tw-text-opacity: 1;
-  color: rgba(220, 38, 38, var(--tw-text-opacity));
-}
 .truncate {
   overflow: hidden;
   -o-text-overflow: ellipsis;
@@ -427,10 +423,6 @@ ul {
 }
 .italic {
   font-style: italic;
-}
-.hover\:underline:hover {
-  -webkit-text-decoration-line: underline;
-  text-decoration-line: underline;
 }
 .underline {
   -webkit-text-decoration-line: underline;
